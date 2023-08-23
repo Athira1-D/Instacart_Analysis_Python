@@ -8,7 +8,7 @@ The data comprises of information on the following parameters:
 - orders
 * Products
 + Departments
-+ Customers
+- Customers
   
 # **Tools**
 For this project,followinfg Python libraries were used:
