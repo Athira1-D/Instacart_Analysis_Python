@@ -15,6 +15,6 @@ For this project,followinfg Python libraries were used:
 - Pandas - Data Analysis
 * Seaborn - Visualization
 
-Software: Jupyter Notebooks and Excel
+**Software**: Jupyter Notebooks and Excel
 
 
